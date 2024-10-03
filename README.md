@@ -39,7 +39,7 @@
 We welcome contributors who can add new tools or improve existing ones. Please:
 1. Fork the repository.
 2. Add your tool or resource.
-3. Submit a pull request with a detailed explanation of the tool or update.
+3. Submit a pull request with a detailed explanation of the tool or update
 
 ---
 
